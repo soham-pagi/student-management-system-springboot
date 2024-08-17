@@ -21,6 +21,8 @@ Before you begin, ensure you have the following installed on your local machine:
 - [Maven 3.6+](https://maven.apache.org/install.html)
 - [MySQL](https://dev.mysql.com/downloads/installer/) or any other preferred database.
 
+## Setup
+
 ### 1. Cloning the Project
 
 To clone the repository, run the following command:
