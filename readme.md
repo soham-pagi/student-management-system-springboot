@@ -17,8 +17,8 @@ This is a simple Student Management System built using Spring Boot. The project 
 
 Before you begin, ensure you have the following installed on your local machine:
 
-- [Java 17+](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
-- [Maven 3.6+](https://maven.apache.org/install.html)
+- [Java 17+](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- [Maven 3.6+](https://maven.apache.org/download.cgi)
 - [MySQL](https://dev.mysql.com/downloads/installer/) or any other preferred database.
 
 ## Setup
